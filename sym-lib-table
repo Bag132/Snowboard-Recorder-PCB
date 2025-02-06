@@ -7,4 +7,5 @@
   (lib (name "PTS810_Btn")(type "KiCad")(uri "${KIPRJMOD}/symbols/PTS810_SJM_250_SMTR_LFS.kicad_sym")(options "")(descr ""))
   (lib (name "Battery_Conn")(type "KiCad")(uri "${KIPRJMOD}/symbols/B2B-PH-K-S.kicad_sym")(options "")(descr ""))
   (lib (name "MCP73831-2ACI_OT")(type "KiCad")(uri "${KIPRJMOD}/symbols/MCP73831T-2ACI_OT.kicad_sym")(options "")(descr ""))
+  (lib (name "CAP_C5")(type "KiCad")(uri "${KIPRJMOD}/symbols/WCAP-ASLL_4X5.5.kicad_sym")(options "")(descr ""))
 )
