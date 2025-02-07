@@ -10,4 +10,5 @@
   (lib (name "CAP_C5")(type "KiCad")(uri "${KIPRJMOD}/symbols/WCAP-ASLL_4X5.5.kicad_sym")(options "")(descr ""))
   (lib (name "CP2102_24")(type "KiCad")(uri "${KIPRJMOD}/symbols/CP2102_24.kicad_sym")(options "")(descr ""))
   (lib (name "MPU6050")(type "KiCad")(uri "${KIPRJMOD}/symbols/MPU6050_2025-02-06_07-55-19.kicad_sym")(options "")(descr ""))
+  (lib (name "BNO086")(type "KiCad")(uri "${KIPRJMOD}/symbols/BNO080.kicad_sym")(options "")(descr ""))
 )
